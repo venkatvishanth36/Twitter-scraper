@@ -1,6 +1,8 @@
 # Twitter-scraper
 The 'Twitter Scraper' is a Data Science project you can scrape the data in the twitter which topic you want.
 
+App link - http://localhost:8501/
+
 #Skills take away From This Project - Python scripting, Data Collection, MongoDB, Streamlit.
 
 #Domain - Social Media
